@@ -22,7 +22,7 @@ public class HeroApplication {
         heroPower3 = "";
         isEvil = true;
         heroSalary = 1500;
-        realName = "Selga";
+        realName = "Selga Cepuma";
         universe = "Floral";
 
     //Print out hero information card
